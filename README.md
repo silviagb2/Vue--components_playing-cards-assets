@@ -1,6 +1,6 @@
 # Card component with VUE
 
-The aim of this exercise is to create a re-usable card component with Vue
+The aim of this exercise is to create a re-usable card component with Vue. [Snapshot](https://oscarm.tinytake.com/tt/NTA2MDU2MV8xNTkwNTcwOA).
 
 ## Requirements
 
